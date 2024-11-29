@@ -1,12 +1,11 @@
-/* tailwind.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
   body {
-    background-color: #1a202c; /* Fondo oscuro */
-    color: white; /* Texto blanco */
+    background-color: #1a202c; 
+    color: white; 
     font-family: 'Arial', sans-serif;
   }
 }
